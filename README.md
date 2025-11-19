@@ -428,3 +428,4 @@ unsure how to format a particular block of code.
 
 [pep 8]: https://peps.python.org/pep-0008/
 # method-application-in-class-python
+# method-application-in-class-python
